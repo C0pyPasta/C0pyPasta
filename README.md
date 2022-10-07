@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C0pyPasta (The 0 is a zero)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java/Kotlin or BlockChain Projects
+- 💞️ I’m looking to collaborate on Java/Kotlin, WebApps and BlockChain Projects
 - 📫 How to reach me g1thub@hotmail.com
 
 <!---
