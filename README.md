@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0pyPasta
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, HTML, JS, CSS, JSON, RESTapi, Spring boot, Wicket
+- 🌱 I’m currently learning Java, HTML, JS, CSS, JSON, XML, RESTapi, Spring boot, Wicket, SQL, Docker, Rancher, Kubernetes
 - 📫 How to reach me: g1thub@hotmail.com
 
 <!---
