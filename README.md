@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @C0pyPasta
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning to code
+- 👋 @C0pyPasta
 - 📫 g1thub@hotmail.com
 
 <!---
